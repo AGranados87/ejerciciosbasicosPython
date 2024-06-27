@@ -1,2 +1,3 @@
 # ejerciciosbasicosPython
-A collection of some basic exercices in Python!
+
+Some other exercises, practicing coding is essential for be a great programmer!
